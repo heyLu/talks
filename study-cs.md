@@ -1,6 +1,7 @@
 should you study CS? probably.
 
 objective: encourage people to study CS, but w/ give perspective & note obstacles
+    ideally, present n (small) points that are important
 
 * cs isn't as scary as you might think
 * there are a lot of people out there, find them (for example, here?)
