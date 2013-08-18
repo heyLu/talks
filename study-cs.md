@@ -19,6 +19,9 @@ objective: encourage people to study CS, but w/ give perspective & note obstacle
 * read (a lot, sometimes books, but also blogs and at least some papers)
 * have side projects
 * just doing what you have to works, but it will just make you a mediocre programmer
+* get comfortable reading/writing english (e.g. be able to keep up-to-date yourself)
+    - what helped me: reading/struggling through blogs, books and movies
+        (and 6 weeks only talking english at home, but thinking in english helps, too)
 
 # my mistakes
 
