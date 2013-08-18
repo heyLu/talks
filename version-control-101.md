@@ -18,7 +18,7 @@ possible examples:
 
 * written/programmed something awesome and then lost it?
     - if not, you will soon
-    - could be hard drive failure/theft, accidentally deleted
+    - could be hard drive failure/theft, accidentally deleted, overwritten
 * wanted to try out a new idea without losing existing work?
     - duplicating a file, changing it and then manually comparing them sucks
 * wanted to work on some idea with someone else concurrently?
