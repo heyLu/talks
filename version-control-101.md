@@ -14,11 +14,21 @@ possible examples:
 * write a simple program (using an existing one?)
 * use [Try Git](http://try.github.io)
 
-# problems
+# have you ever ...?
 
-* losing work
-    - hard disk broken/lost/stolen
-    - accidentally deleted `~me/my-awesome-projects`
-* trying out different ideas is difficult
-    - especially when reusing some parts, but changing others
+* written/programmed something awesome and then lost it?
+    - if not, you will soon
+    - could be hard drive failure/theft, accidentally deleted
+* wanted to try out a new idea without losing existing work?
+    - duplicating a file, changing it and then manually comparing them sucks
+* wanted to work on some idea with someone else concurrently?
+    - dropbox & co are made for sharing, not working together
 
+# well, a VCS is there to help
+
+* VCS = version control system
+* `git` is a DVCS (distributed VCS)
+* starting out is easy
+* you benefit now (never lose work, try out new ideas, collaborate)
+* and can learn more as you go (worked for me, plenty of tutorials/people
+    to help you)
