@@ -47,3 +47,16 @@ audience and continue to be developed.
 * you decide the new state is worth storing (`commit` again)
 * you can try out new ideas (`branch`)
 * you can share with others (`push`, `pull` and `merge`)
+
+# tips
+
+* works best with text files (blogs/books/papers, programs, configuration files)
+    - e.g. images and office documents can be stored, but not as easily compared
+
+# how to continue?
+
+* [try git](https://try.github.io)
+* use it for something (for example the app you'll create today; you'll
+    need `init`, `add` and `commit`)
+* learn as you go (search [StackOverflow](http://stackoverflow.com) and the web)
+* or probably read a book about it
