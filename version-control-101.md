@@ -32,3 +32,18 @@ possible examples:
 * you benefit now (never lose work, try out new ideas, collaborate)
 * and can learn more as you go (worked for me, plenty of tutorials/people
     to help you)
+
+# how it works
+
+the rest of this talk, with a running example. i would like that
+example to do something interesting that could be picked up by the
+audience and continue to be developed.
+
+* you make a directory version controlled (`init`)
+* you work on some file(s) in that directory
+* you add it to the vcs (`add`)
+* you store it's current state (`commit`)
+* you continue working
+* you decide the new state is worth storing (`commit` again)
+* you can try out new ideas (`branch`)
+* you can share with others (`push`, `pull` and `merge`)
