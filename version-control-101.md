@@ -1,59 +1,62 @@
 version control 101
 
 (how to never lose your work again)
-objective: provide motivation and knowledge about using a (d)vcs
+objective: show using a vcs using real-world problems
 
-# what, how and why?
+* 10 minutes
+* demonstrate common workflow (add, commit, reset, mv/rm, branch/checkout, push)
+* motivate vcs use w/ real problems, ideally on a simple example
 
-* what: versioned storage of (text-) files
-* how: you work on something, you *commit* it, back to step 1
-* why: look at past attempts, figure out why you did something, go back,
-    store work "in the cloud" (e.g. kind of a backup), try out ideas,
-    discard them easily without losing anything
+possible examples:
 
-# specifics
+* write a presentation (such as this one)
+* write a blog
+* write a simple program (using an existing one?)
+* use [Try Git](http://try.github.io)
 
-* you want *distributed* version control (DVCS)
-* i'll show you git, but as always there are alternatives
-    - git is popular, has a lot of docs & helpful people, but takes a
-        little time to get used to
+# have you ever ...?
 
-# how, in detail (workflow & terms)
+* written/programmed something awesome and then lost it?
+    - if not, you will soon
+    - could be hard drive failure/theft, accidentally deleted
+* wanted to try out a new idea without losing existing work?
+    - duplicating a file, changing it and then manually comparing them sucks
+* wanted to work on some idea with someone else concurrently?
+    - dropbox & co are made for sharing, not working together
 
-* you work on something (files in a version-controlled directory)
-    - e.g. you edit the file ~me/world-domination/RULES.md
-* you consider that work somehow "done"
-    - when you stop working on it for the day
-    - when you want to try some different idea
-    - when you think you are done
-    - when you reached a first "ok, might be good" stage
-    - when you made a small change across a set of files (rename 
+# well, a VCS is there to help
 
-# sharing your work
+* VCS = version control system
+* `git` is a DVCS (distributed VCS)
+* starting out is easy
+* you benefit now (never lose work, try out new ideas, collaborate)
+* and can learn more as you go (worked for me, plenty of tutorials/people
+    to help you)
 
-* benefit of DVCSs
-* GitHub and Bitbucket both provide unlimited public hosting
-    - GitHub is more popular and I like it better, so maybe start there
-    - Bitbucket can be used for private projects w/ less than 5 people for free
-    - both provide paid-plans (but you probably only need that when working for money)
-* work in public *and* ask people for help, so you can get feedback & mentoring
-    - private projects aren't so much fun and you miss out on a chance to learn
-        something from others
+# how it works
+
+the rest of this talk, with a running example. i would like that
+example to do something interesting that could be picked up by the
+audience and continue to be developed.
+
+* you make a directory version controlled (`init`)
+* you work on some file(s) in that directory
+* you add it to the vcs (`add`)
+* you store it's current state (`commit`)
+* you continue working
+* you decide the new state is worth storing (`commit` again)
+* you can try out new ideas (`branch`)
+* you can share with others (`push`, `pull` and `merge`)
 
 # tips
 
-* one thing per commit (so you get self-contained, understandable steps)
-* commit in very small steps
-    - "first draft of new chapter"
-    - "fixed all the typos"
-* don't be afraid to commit unfinished stuff (incomplete writing, styles
-    not finished, program not working correctly)
-    - if you're working with others, however, you should add notes as to
-        what isn't working and code should still run. but that's the topic
-        of another talk
+* works best with text files (blogs/books/papers, programs, configuration files)
+    - e.g. images and office documents can be stored, but not as easily compared
 
-# now really, why would i want that? (benefits)
+# how to continue?
 
-* try out different ideas
-    - e.g. i tried 2 ideas for this task and could try many more while
-        still being able to look at all steps and all old versions
+* [try git](https://try.github.io)
+* use it for something (for example the app you'll create today; you'll
+    need `init`, `add` and `commit`)
+* learn as you go (search [StackOverflow](http://stackoverflow.com) and the web)
+* or probably read a book about it
