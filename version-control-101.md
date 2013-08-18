@@ -3,6 +3,10 @@ version control 101
 (how to never lose your work again)
 objective: show using a vcs using real-world problems
 
+* 10 minutes
+* demonstrate common workflow (add, commit, reset, mv/rm, branch/checkout, push)
+* motivate vcs use w/ real problems, ideally on a simple example
+
 possible examples:
 
 * write a presentation (such as this one)
