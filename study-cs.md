@@ -37,3 +37,4 @@ myths
 * \_why's poignant guide to ruby, learn you a haskell
 * thinking mathematically, drawing on the right side of the brain
 * you are not so smart (especially "procrastination")
+* lockharts lament (math is beautiful, it's also learning to think)
