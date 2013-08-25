@@ -24,6 +24,9 @@ objective: encourage people to study CS, but w/ give perspective & note obstacle
     - what helped me: reading/struggling through blogs, books and movies
         (and 6 weeks only talking english at home, but thinking in english helps, too)
 
+* problem solving can't be taught, you learn it by trying to solve
+    problems and watching yourself (and mentoring)
+
 # my mistakes
 
 # resources
