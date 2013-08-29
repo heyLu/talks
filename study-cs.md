@@ -11,6 +11,15 @@ best-of (what helped me)
 - learning english
 - hard work/lots of time spent
 
+problems
+- almost no research
+- learning to think is more or less expected to "arrive by magic"
+- working/playing alone sucks
+
+requirements
+- curiosity
+- optimism (after hours of failing, sleeping over it... try again)
+
 reasons to study:
 - create (awesome things), you can work w/ 3 months training (or similar, no university required)
 - learn  (also awesome things), this is what you should learn
