@@ -5,6 +5,12 @@ objective: encourage people to study CS, but w/ give perspective & note obstacle
 
 best-of, problems, requirements, personal assessment
 
+best-of (what helped me)
+- side projects
+- reading/trying things early
+- learning english
+- hard work/lots of time spent
+
 reasons to study:
 - create (awesome things), you can work w/ 3 months training (or similar, no university required)
 - learn  (also awesome things), this is what you should learn
